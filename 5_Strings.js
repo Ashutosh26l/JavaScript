@@ -12,6 +12,6 @@ console.log(gameName.charAt(2));
 console.log(gameName.indexOf("o"));
 console.log(gameName.substring(0,4));// end value is not included
 console.log(gameName.slice(0,4));
-console.log(gameName.split(" "));// can be spli on the basis of any character rturn in the form of array
+console.log(gameName.split(" "));// can be spli on the basis of any character rturn in the form of array 
 console.log(gameName.replace("o","a"));
 console.log(gameName.trim());// aaage or peeche kaa blank spaace ko remove kr det hai
